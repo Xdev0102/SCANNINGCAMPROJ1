@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo -e "#######################################"
+echo -e "# Activating the virtual environnment #"
+echo -e "#######################################\n"
+
+source /home/divkh/projects/camrecogproj1/venv/bin/activate
+
+echo -e "Virtualenv activated\n"
+
